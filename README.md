@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @karun-karunendra
+- 👋 Hi, I’m @Karunendra
 - 👀 I’m interested in .web and app development..
 - 🌱 I’m currently learning .programming language web development..
 - 💞️ I’m looking to collaborate on developers community...
